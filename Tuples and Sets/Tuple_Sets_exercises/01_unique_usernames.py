@@ -1,8 +1,6 @@
-n, m = map(int, input().split())
+unique_name = set()
 
-set1 = {int(input()) for _ in range(n)}
-set2 = {int(input()) for _ in range(m)}
-
-print(*set1.intersection(set2), sep='\n')
-
-print(type(set1))
+for _ in range(int(input())):
+    names = input()
+    unique_name.add(names)
+print(*unique_name,sep='\n')
