@@ -29,3 +29,14 @@
 # a,b = (1,2)
 # print(a)
 # print(b)
+from ctypes.wintypes import SHORT
+
+#SHORT_CUT
+# a = set([1, 2, 3, 4])
+# b = set([3, 4, 5, 6])
+# a | b # Union -> {1, 2, 3, 4, 5, 6}
+# a & b # Intersection -> {3, 4}
+# a < b # Subset -> False
+# a > b # Superset -> False
+# a - b # Difference -> {1, 2}
+# a ^ b # Symmetric Difference -> {1, 2, 5, 6}
