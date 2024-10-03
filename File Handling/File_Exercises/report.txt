@@ -1,0 +1,15 @@
+.py
+- - - __init__.py
+- - - __init__.py
+- - - __init__.py
+- - - __init__.py
+- - - __init__.py
+- - - directory_Traversal.py
+- - - even_line.py
+- - - file_manipulator.py
+- - - line_numbers.py
+.txt
+- - - output.txt
+- - - report.txt
+- - - text.txt
+- - - text.txt
