@@ -1,0 +1,18 @@
+from math import  log
+
+
+
+number = int(input())
+
+try:
+    base = int(input())
+    print(f"{number,base:.2f}")
+
+except ValueError:
+    print(f"{log(number):.2f}")
+
+
+
+
+
+
