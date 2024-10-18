@@ -21,7 +21,7 @@ while True:
 
     new_r = ship_pos[0] + directions[cmd][0]
     new_c = ship_pos[1] + directions[cmd][1]
-
+    #  око е езивън рейндж продлъжи отдругата страна
     new_r = (new_r + n) % n
     new_c = (new_c + n) % n
     # if new_r < 0:
