@@ -19,3 +19,11 @@ def softuni_students(*args, **courses):
         result.append(f"!!! Invalid course students: {', '.join(sorted(invalid_course))}")
 
     return "\n".join(result)
+
+print(softuni_students(
+    ('id_7', 'Silvester1'),
+    ('id_32', 'Katq21'),
+    ('id_7', 'The programmer'),
+    id_76='Spring Fundamentals',
+    id_7='Spring Advanced',
+))
