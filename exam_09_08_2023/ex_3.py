@@ -8,8 +8,9 @@ def accommodate_new_pets(capacity: int, maximum_weight: float, *elements):
         if maximum_weight < kg:
             continue
         if pet not in pets:
-            pets[pet] = 0
-        pets[pet] += 1
+            pets[pet] = 1
+        else:
+            pets[pet] += 1
         capacity -= 1
     else:
         result.append(f"All pets are accommodated! Available capacity: {capacity}.")
