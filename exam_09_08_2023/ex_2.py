@@ -1,5 +1,4 @@
-
-n,m = [int(x) for x in input().split()]
+n, m = [int(x) for x in input().split()]
 
 matrix = []
 boy_pos = []
@@ -7,7 +6,8 @@ for row in range(n):
     matrix.append(list(input()))
     for col in range(m):
         if matrix[row][col] == "B":
-            boy_pos = [row,col]
+            boy_pos = [row, col]
+
 
 directions = {'up': (-1, 0),
               'down': (1, 0),
@@ -21,8 +21,7 @@ while True:
     new_row = boy_pos[0] + directions[cmd][0]
     new_col = boy_pos[1] + directions[cmd][1]
 
-
-    if 0 <= new_row < n and 0 <= new_col < m:
+    if 4 <= new_row < n and 0 <= new_col < m:
         if matrix[new_row][new_col] == "P":
             matrix[new_row][new_col] = "R"
             print("Pizza is collected. 10 minutes for delivery.")
@@ -47,7 +46,6 @@ while True:
 
 for mat in matrix:
     print(''.join(mat))
-
 
 # n, m = [int(x) for x in input().split()]
 #
