@@ -5,46 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46a177f9-2787-4ba3-931e-189fa1ceb1e8" name="Changes" comment="OPP">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Error_Handling/Exercise_Error_Handling/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Error_Handling/st.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_Stacks,_Queues_Tuples_and_Sets/task_problems.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise_Stacks,_Queues_Tuples_and_Sets/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions_Advanced/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank/matrix_script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List_Stack_Queues/Exercise/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multidimensional_Lists/Exercise_Multidimensional_Lists/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multidimensional_Lists/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuples and Sets/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/conect_four_gui/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/conect_four_gui/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/conect_four_gui/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/conect_four_gui/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/conect_four_gui/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/conect_four_gui/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/conect_four_gui/conect_four_gui.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/conect_four_gui/warn-conect_four_gui.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/conect_four_gui/xref-conect_four_gui.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conect_four_gui.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_13__12_2023/test_ex_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_17_02_2024/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exam_preparation1/test_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exp1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Softuni-Advance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Softuni-Advance.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Error_Handling/notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Error_Handling/notes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions_Advanced/notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions_Advanced/notes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/class_and_objects/class_and_ob_exercises/spoopify/project/album.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/class_and_objects/class_and_ob_exercises/spoopify/project/album.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/class_and_objects/class_and_ob_exercises/spoopify/project/band.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/class_and_objects/class_and_ob_exercises/spoopify/project/band.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/class_and_objects/class_and_ob_exercises/spoopify/project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/class_and_objects/class_and_ob_exercises/spoopify/project/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/class_and_objects/class_and_ob_exercises/spoopify/project/song.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/class_and_objects/class_and_ob_exercises/spoopify/project/song.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation1/beesy.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_preparation1/beesy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation1/boarding_passengers.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_preparation1/boarding_passengers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exam_preparation1/rapid_courier.py" beforeDir="false" afterPath="$PROJECT_DIR$/exam_preparation1/rapid_courier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_repo.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_repo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance/Lab/food/project/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance/Lab/food/project/food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance/Lab/food/project/fruit.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance/Lab/food/project/fruit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance/Lab/food/project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance/Lab/food/project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance/Lab/hierarchical_Inheritance/project/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance/Lab/hierarchical_Inheritance/project/animal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance/Lab/hierarchical_Inheritance/project/cat.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance/Lab/hierarchical_Inheritance/project/cat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance/Lab/hierarchical_Inheritance/project/dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance/Lab/hierarchical_Inheritance/project/dog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance/Lab/hierarchical_Inheritance/project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance/Lab/hierarchical_Inheritance/project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance/Lab/multilevel_Inheritance/project/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance/Lab/multilevel_Inheritance/project/car.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance/Lab/multilevel_Inheritance/project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance/Lab/multilevel_Inheritance/project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance/Lab/multilevel_Inheritance/project/sports_car.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance/Lab/multilevel_Inheritance/project/sports_car.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance/Lab/multilevel_Inheritance/project/vehicle.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance/Lab/multilevel_Inheritance/project/vehicle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance/Lab/multiple_Inheritance/project/employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance/Lab/multiple_Inheritance/project/employee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance/Lab/multiple_Inheritance/project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance/Lab/multiple_Inheritance/project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance/Lab/multiple_Inheritance/project/person.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance/Lab/multiple_Inheritance/project/person.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance/Lab/multiple_Inheritance/project/teacher.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance/Lab/multiple_Inheritance/project/teacher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance/Lab/single_Inheritance/project/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance/Lab/single_Inheritance/project/animal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance/Lab/single_Inheritance/project/dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance/Lab/single_Inheritance/project/dog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance/Lab/single_Inheritance/project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance/Lab/single_Inheritance/project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Inheritance/Lab/stack_of_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Inheritance/Lab/stack_of_strings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,11 +125,14 @@
     "Python.file_manipulator (1).executor": "Run",
     "Python.file_manipulator.executor": "Run",
     "Python.file_opener.executor": "Run",
+    "Python.fruit (1).executor": "Debug",
+    "Python.fruit.executor": "Run",
     "Python.guild.executor": "Debug",
     "Python.line_numbers.executor": "Run",
     "Python.main (1).executor": "Run",
     "Python.main (2).executor": "Run",
     "Python.main (3).executor": "Run",
+    "Python.main (4).executor": "Run",
     "Python.main.executor": "Run",
     "Python.matrix_script.executor": "Run",
     "Python.music.executor": "Run",
@@ -160,6 +144,7 @@
     "Python.rhombus_of_stars.executor": "Run",
     "Python.scope_mess_broken.executor": "Run",
     "Python.section.executor": "Run",
+    "Python.stack_of_strings.executor": "Run",
     "Python.test (1).executor": "Run",
     "Python.test.executor": "Run",
     "Python.test1.executor": "Run",
@@ -180,7 +165,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Stefoto/PycharmProjects/Softuni-Advance/OOP/class_and_objects/class_and_ob_exercises/guilf_system",
-    "settings.editor.selected.configurable": "terminal"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -190,36 +175,14 @@
       <recent name="C:\Users\Stefoto\PycharmProjects\Softuni-Advance" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Stefoto\PycharmProjects\Softuni-Advance\OOP\Inheritance\lab\food\project" />
       <recent name="C:\Users\Stefoto\PycharmProjects\Softuni-Advance\OOP\class_and_objects\class_and_ob_exercises\06_guild_system\project" />
       <recent name="C:\Users\Stefoto\PycharmProjects\Softuni-Advance\OOP\first_spteps_oop" />
       <recent name="C:\Users\Stefoto\PycharmProjects\Softuni-Advance\Modules\ex_2" />
       <recent name="C:\Users\Stefoto\PycharmProjects\Softuni-Advance\Modules\ex_1" />
-      <recent name="C:\Users\Stefoto\PycharmProjects\Softuni-Advance\File Handling\File_Exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_repo">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Softuni-Advance" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/class_and_objects/class_and_ob_exercises/06_guild_system/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/class_and_objects/class_and_ob_exercises/06_guild_system/project/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.stack_of_strings">
     <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Softuni-Advance" />
       <option name="ENV_FILES" value="" />
@@ -229,11 +192,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/class_and_objects/class_and_ob_exercises/06_guild_system2/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Inheritance/Lab/multilevel_Inheritance/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/class_and_objects/class_and_ob_exercises/06_guild_system2/project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Inheritance/Lab/multilevel_Inheritance/project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,11 +214,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/class_and_objects/class_and_ob_exercises/guilf_system/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Inheritance/Lab/multiple_Inheritance/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/class_and_objects/class_and_ob_exercises/guilf_system/project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Inheritance/Lab/multiple_Inheritance/project/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Softuni-Advance" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Inheritance/Lab/hierarchical_Inheritance/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Inheritance/Lab/hierarchical_Inheritance/project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,11 +258,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/class_and_objects/class_and_ob_exercises/spoopify/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Inheritance/Lab/single_Inheritance/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/class_and_objects/class_and_ob_exercises/spoopify/project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Inheritance/Lab/single_Inheritance/project/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,7 +271,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_repo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="stack_of_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Softuni-Advance" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -295,11 +280,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Inheritance/Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_repo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Inheritance/Lab/stack_of_strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -310,11 +295,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_repo" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.stack_of_strings" />
+        <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
