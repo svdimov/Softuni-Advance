@@ -28,8 +28,10 @@
 
 # # -----------------------DICTIONERY SORTED
 # my_dict = {'Peter': 21, 'George':18, 'John': 45, 'Ivan': 45}
-# # result = sorted(my_dict.items(), key = lambda kvp: kvp[1]) # сортира индекса по велюта от речника
-# result = sorted(my_dict.items(), key = lambda kvp: (-kvp[1], kvp[0])) # сортира  по равна година но по азбучен ред спрямо името
+# result = sorted(my_dict.items(), key = lambda kvp: kvp[1], ) # сортира индекса по велюта от речника
+# result2 = sorted(my_dict.items(), key = lambda kvp: (-kvp[1], kvp[0])) # сортира  по равна година но по азбучен ред спрямо името
+# print(result)
+# print(result2)
 # ---------------------NESTED FUNCTIONS
 # def outer_fuc(b):
 #     x =7
@@ -46,8 +48,8 @@
 #     return count_10(num+1)
 # print(count_10(1))
 # -----Factorial recursion
-def fact(n):
-    if n == 1:
-        return 1
-    return n * fact(n-1)
-print(fact(5))
+# def fact(n):
+#     if n == 1:
+#         return 1
+#     return n * fact(n-1)
+# print(fact(5))

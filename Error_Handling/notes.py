@@ -48,4 +48,27 @@
 #     number = int(input())
 #     if number < 0:
 #         raise ValueCannotBeNegative
+ # ---------------any() all() different case :
+# print(any([True,False])) # True like or
+# print(all([True,False])) # False  like and
+#-------server scan
+# import time
+# import socket
+# client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+# client_socket.settimeout(0.5)
+# for i in range(1,256):
+#     ip = f'151.251.126.{i}'
+#     try:
+#         client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+#         client_socket.settimeout(0.5)
+#         client_socket.connect((ip,7547))
+#         print(f"server found {ip}")
+#         break
+#     except TimeoutError:
+#         print(f" No conection to server adresa {ip}")
+#     time.sleep(1)
+#
+#---------------barcode reader
+
+
 
