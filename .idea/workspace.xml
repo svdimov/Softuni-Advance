@@ -5,52 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46a177f9-2787-4ba3-931e-189fa1ceb1e8" name="Changes" comment="OPP">
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/need_for_speed/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/need_for_speed/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/need_for_speed/project/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/need_for_speed/project/cross_motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/need_for_speed/project/family_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/need_for_speed/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/need_for_speed/project/motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/need_for_speed/project/race_motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/need_for_speed/project/sport_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/need_for_speed/project/vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/person/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/person/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/person/project/child.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/person/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/person/project/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/players_and_monsters/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/players_and_monsters/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/players_and_monsters/project/blade_knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/players_and_monsters/project/dark_knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/players_and_monsters/project/dark_wizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/players_and_monsters/project/elf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/players_and_monsters/project/hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/players_and_monsters/project/knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/players_and_monsters/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/players_and_monsters/project/muse_elf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/players_and_monsters/project/soul_master.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/players_and_monsters/project/wizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/shop_no_expire_time/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/shop_no_expire_time/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/shop_no_expire_time/project/drink.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/shop_no_expire_time/project/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/shop_no_expire_time/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/shop_no_expire_time/project/product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/shop_no_expire_time/project/product_repository.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/zoo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/zoo/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/zoo/project/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/zoo/project/bear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/zoo/project/gorilla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/zoo/project/lizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/zoo/project/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/zoo/project/mammal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/zoo/project/reptile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Inheritance/exercises/zoo/project/snake.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Softuni-Advance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Softuni-Advance.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Encapsulation/Lab/Mammal.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Encapsulation/Lab/Mammal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Encapsulation/Lab/account.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Encapsulation/Lab/account.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Encapsulation/Lab/email_validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Encapsulation/Lab/email_validator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Encapsulation/Lab/profile.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Encapsulation/Lab/profile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_repo.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_repo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,111 +51,116 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.01_offroad_challenge.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_shop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_vehicle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_vet.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_hero.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_point.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_time.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_account.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_circle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_employee.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_Numbers_Filter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_glass.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_pizza_delivery.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_flower.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_smartphone.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_function_executor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_steam_user.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_grocery.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_programmer.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.11_Math_Operations.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_numbers_dictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1st_problem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2nd_problem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_password_validator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3rd_problem.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.4_cup.executor&quot;: &quot;Run&quot;,
-    &quot;Python.beesy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.boarding_passengers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.car.executor&quot;: &quot;Run&quot;,
-    &quot;Python.class_book.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conect_four.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conect_four_gui (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.core (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.core.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cross_motorcycle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.directory_Traversal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.directory_traversal_recursion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.even_line (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.even_line.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex_1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex_2 (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Python.ex_2 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex_2mycode.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex_3 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex_3 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex_3mycde.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exam_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example!.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exma_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exp1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fibo_seq.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_manipulator (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_manipulator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.file_opener.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fruit (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Python.fruit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.guild.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.hero.executor&quot;: &quot;Run&quot;,
-    &quot;Python.line_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (3).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main (4).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.matrix_script.executor&quot;: &quot;Run&quot;,
-    &quot;Python.music.executor&quot;: &quot;Run&quot;,
-    &quot;Python.my_first_file.executor&quot;: &quot;Run&quot;,
-    &quot;Python.my_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.notes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.player.executor&quot;: &quot;Run&quot;,
-    &quot;Python.product_repository.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rapid_courier.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rhombus_of_stars.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scope_mess_broken.executor&quot;: &quot;Run&quot;,
-    &quot;Python.section.executor&quot;: &quot;Run&quot;,
-    &quot;Python.stack_of_strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_ex (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_ex.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_ex_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_files.executor&quot;: &quot;Run&quot;,
-    &quot;Python.test_repo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tests_regular.executor&quot;: &quot;Run&quot;,
-    &quot;Python.the_squirrel (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.tic-tac-test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.trainer (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.trainer (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.trainer (3).executor&quot;: &quot;Run&quot;,
-    &quot;Python.trainer (4).executor&quot;: &quot;Run&quot;,
-    &quot;Python.trainer.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Stefoto/PycharmProjects/Softuni-Advance/OOP/class_and_objects/class_and_ob_exercises/guilf_system&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01_offroad_challenge.executor": "Run",
+    "Python.01_shop.executor": "Run",
+    "Python.01_vehicle.executor": "Run",
+    "Python.01_vet.executor": "Run",
+    "Python.02_hero.executor": "Run",
+    "Python.02_point.executor": "Run",
+    "Python.02_time.executor": "Run",
+    "Python.03_account.executor": "Run",
+    "Python.03_circle.executor": "Run",
+    "Python.03_employee.executor": "Run",
+    "Python.04_Numbers_Filter.executor": "Run",
+    "Python.04_glass.executor": "Run",
+    "Python.04_pizza_delivery.executor": "Run",
+    "Python.05_flower.executor": "Run",
+    "Python.05_smartphone.executor": "Run",
+    "Python.06_function_executor.executor": "Run",
+    "Python.06_steam_user.executor": "Run",
+    "Python.07_grocery.executor": "Run",
+    "Python.07_programmer.executor": "Debug",
+    "Python.11_Math_Operations.executor": "Run",
+    "Python.1_numbers_dictionary.executor": "Run",
+    "Python.1st_problem.executor": "Run",
+    "Python.2nd_problem.executor": "Run",
+    "Python.3_password_validator.executor": "Run",
+    "Python.3rd_problem.executor": "Debug",
+    "Python.4_cup.executor": "Run",
+    "Python.Mammal.executor": "Run",
+    "Python.account.executor": "Run",
+    "Python.beesy.executor": "Run",
+    "Python.boarding_passengers.executor": "Run",
+    "Python.car.executor": "Run",
+    "Python.class_book.executor": "Run",
+    "Python.conect_four.executor": "Run",
+    "Python.conect_four_gui (1).executor": "Run",
+    "Python.core (1).executor": "Run",
+    "Python.core.executor": "Run",
+    "Python.cross_motorcycle.executor": "Run",
+    "Python.directory_Traversal.executor": "Run",
+    "Python.directory_traversal_recursion.executor": "Run",
+    "Python.email_validator.executor": "Run",
+    "Python.even_line (1).executor": "Run",
+    "Python.even_line.executor": "Run",
+    "Python.ex_1 (1).executor": "Run",
+    "Python.ex_1.executor": "Run",
+    "Python.ex_2 (1).executor": "Debug",
+    "Python.ex_2 (2).executor": "Run",
+    "Python.ex_2.executor": "Run",
+    "Python.ex_2mycode.executor": "Run",
+    "Python.ex_3 (1).executor": "Run",
+    "Python.ex_3 (2).executor": "Run",
+    "Python.ex_3.executor": "Run",
+    "Python.ex_3mycde.executor": "Run",
+    "Python.ex_5.executor": "Run",
+    "Python.exam_2.executor": "Run",
+    "Python.example!.executor": "Run",
+    "Python.exma_3.executor": "Run",
+    "Python.exp1.executor": "Run",
+    "Python.fibo_seq.executor": "Run",
+    "Python.file_manipulator (1).executor": "Run",
+    "Python.file_manipulator.executor": "Run",
+    "Python.file_opener.executor": "Run",
+    "Python.fruit (1).executor": "Debug",
+    "Python.fruit.executor": "Run",
+    "Python.guild.executor": "Debug",
+    "Python.hero.executor": "Run",
+    "Python.line_numbers.executor": "Run",
+    "Python.main (1).executor": "Run",
+    "Python.main (2).executor": "Run",
+    "Python.main (3).executor": "Run",
+    "Python.main (4).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.matrix_script.executor": "Run",
+    "Python.music.executor": "Run",
+    "Python.my_first_file.executor": "Run",
+    "Python.my_main.executor": "Run",
+    "Python.notes.executor": "Run",
+    "Python.person.executor": "Run",
+    "Python.player.executor": "Run",
+    "Python.product_repository.executor": "Run",
+    "Python.profile.executor": "Run",
+    "Python.rapid_courier.executor": "Run",
+    "Python.rhombus_of_stars.executor": "Run",
+    "Python.scope_mess_broken.executor": "Run",
+    "Python.section.executor": "Run",
+    "Python.stack_of_strings.executor": "Run",
+    "Python.test (1).executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test1.executor": "Run",
+    "Python.test_3.executor": "Run",
+    "Python.test_ex (1).executor": "Run",
+    "Python.test_ex.executor": "Run",
+    "Python.test_ex_2.executor": "Run",
+    "Python.test_files.executor": "Run",
+    "Python.test_repo.executor": "Run",
+    "Python.tests_regular.executor": "Run",
+    "Python.the_squirrel (1).executor": "Run",
+    "Python.tic-tac-test.executor": "Run",
+    "Python.trainer (1).executor": "Run",
+    "Python.trainer (2).executor": "Run",
+    "Python.trainer (3).executor": "Run",
+    "Python.trainer (4).executor": "Run",
+    "Python.trainer.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Stefoto/PycharmProjects/Softuni-Advance/OOP/class_and_objects/class_and_ob_exercises/guilf_system",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Stefoto\PycharmProjects\Softuni-Advance\OOP\class_and_objects\class_and_ob_exercises\guilf_system" />
@@ -210,8 +175,8 @@
       <recent name="C:\Users\Stefoto\PycharmProjects\Softuni-Advance\Modules\ex_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="cross_motorcycle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.account">
+    <configuration name="Mammal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Softuni-Advance" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,11 +185,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Inheritance/exercises/need_for_speed/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Encapsulation/Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Inheritance/exercises/need_for_speed/project/cross_motorcycle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Encapsulation/Lab/Mammal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Softuni-Advance" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,11 +207,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Inheritance/exercises/need_for_speed/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Encapsulation/Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Inheritance/exercises/need_for_speed/project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Encapsulation/Lab/account.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="email_validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Softuni-Advance" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -264,11 +229,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Inheritance/exercises/players_and_monsters/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Encapsulation/Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Inheritance/exercises/players_and_monsters/project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Encapsulation/Lab/email_validator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="profile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Softuni-Advance" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -286,11 +251,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Inheritance/exercises/shop_no_expire_time/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Encapsulation/Lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Inheritance/exercises/shop_no_expire_time/project/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Encapsulation/Lab/profile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,7 +264,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="product_repository" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_repo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Softuni-Advance" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -308,11 +273,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Inheritance/exercises/shop_no_expire_time/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Inheritance/exercises/shop_no_expire_time/project/product_repository.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_repo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,11 +288,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.product_repository" />
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.cross_motorcycle" />
-        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.account" />
+        <item itemvalue="Python.email_validator" />
+        <item itemvalue="Python.test_repo" />
+        <item itemvalue="Python.profile" />
+        <item itemvalue="Python.Mammal" />
       </list>
     </recent_temporary>
   </component>
