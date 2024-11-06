@@ -7,7 +7,7 @@ class Zoo:
     def __init__(self, name: str, budget: int, animal_capacity: int, worker_capacity: int):
         self.workers: list[Worker] = []
         self.animals: list[Animal] = []
-        self.__worker_capacity = worker_capacity
+        self.__workers_capacity = worker_capacity
         self.__animal_capacity = animal_capacity
         self.__budget = budget
         self.name = name
@@ -24,7 +24,7 @@ class Zoo:
         return f"{animal.name} the {animal.__class__.__name__} added to the zoo"
 
     def hire_worker(self, worker: Worker) -> str:
-        if self.__worker_capacity <= len(self.workers):
+        if self.__workers_capacity <= len(self.workers):
             return "Not enough space for worker"
         self.workers.append(worker)
         return f"{worker.name} the {worker.__class__.__name__} hired successfully"
