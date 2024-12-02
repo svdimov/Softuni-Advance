@@ -1,4 +1,4 @@
-from project.stores.base_store import BaseStore
+from project import BaseStore
 
 
 class ToyStore(BaseStore):

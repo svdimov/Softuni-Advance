@@ -1,9 +1,9 @@
-from project.products.base_product import BaseProduct
-from project.products.chair import Chair
-from project.products.hobby_horse import HobbyHorse
-from project.stores.base_store import BaseStore
-from project.stores.furniture_store import FurnitureStore
-from project.stores.toy_store import ToyStore
+from project import BaseProduct
+from project import Chair
+from project import HobbyHorse
+from project import BaseStore
+from project import FurnitureStore
+from project import ToyStore
 
 
 class FactoryManager:

@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-from project.products.base_product import BaseProduct
+from project import BaseProduct
 
 
 class BaseStore(ABC):

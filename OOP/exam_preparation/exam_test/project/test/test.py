@@ -1,4 +1,4 @@
-from project.soccer_player import SoccerPlayer
+from project import SoccerPlayer
 from unittest import TestCase, main
 
 

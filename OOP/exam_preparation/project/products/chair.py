@@ -1,4 +1,4 @@
-from project.products.base_product import BaseProduct
+from project import BaseProduct
 
 
 class Chair(BaseProduct):
