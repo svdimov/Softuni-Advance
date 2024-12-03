@@ -1,4 +1,4 @@
-from project.cat import Cat
+from project import Cat
 class Tomcat(Cat):
 
     def __init__(self,name,age):

@@ -1,6 +1,6 @@
 
 
-from project.hero import Hero
+from project import Hero
 from unittest import TestCase, main
 
 class HeroTest(TestCase):

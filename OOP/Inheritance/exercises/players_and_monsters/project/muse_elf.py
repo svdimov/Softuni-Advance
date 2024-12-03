@@ -1,3 +1,3 @@
-from project.elf import Elf
+from project import Elf
 class MuseElf(Elf):
     pass

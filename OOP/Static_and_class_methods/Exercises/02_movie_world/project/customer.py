@@ -1,4 +1,4 @@
-from project.dvd import DVD
+from project import DVD
 class Customer:
 
     def __init__(self,name:str,age:int,_id:int):

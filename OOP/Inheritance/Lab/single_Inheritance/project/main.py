@@ -1,4 +1,4 @@
-from project.dog import Dog
+from project import Dog
 
 d = Dog()
 print(d.bark())

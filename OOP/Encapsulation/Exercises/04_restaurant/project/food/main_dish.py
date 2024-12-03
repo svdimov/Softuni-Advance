@@ -1,3 +1,3 @@
-from project.food.food import Food
+from project import Food
 class MainDish(Food):
     pass

@@ -1,5 +1,5 @@
-from project.dog import Dog
-from project.cat import Cat
+from project import Dog
+from project import Cat
 d = Dog()
 c = Cat()
 print(d.bark())

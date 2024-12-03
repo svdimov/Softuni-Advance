@@ -1,3 +1,3 @@
-from project.hero import Hero
+from project import Hero
 class Knight(Hero):
     pass

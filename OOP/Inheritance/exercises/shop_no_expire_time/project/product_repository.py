@@ -1,6 +1,6 @@
 from typing import Optional
 
-from project.product import Product
+from project import Product
 
 
 class ProductRepository:

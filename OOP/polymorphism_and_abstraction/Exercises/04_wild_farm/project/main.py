@@ -1,6 +1,5 @@
-from project.animals.birds import Owl, Hen
-from project.animals.mammals import Tiger
-from project.food import Meat, Vegetable, Fruit
+from project import Hen
+from project import Meat, Vegetable, Fruit
 
 
 hen = Hen("Harry", 10, 10)

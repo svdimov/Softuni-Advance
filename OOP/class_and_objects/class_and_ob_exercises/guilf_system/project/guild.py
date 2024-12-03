@@ -1,4 +1,4 @@
-from project.player import Player
+from project import Player
 
 class Guild:
     def __init__(self, name: str) -> None:

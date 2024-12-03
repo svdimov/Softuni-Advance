@@ -1,7 +1,7 @@
-from project.cat import Cat
-from project.dog import Dog
-from project.kitten import Kitten
-from project.tomcat import Tomcat
+from project import Cat
+from project import Dog
+from project import Kitten
+from project import Tomcat
 
 kitten = Kitten("Kiki", 1)
 print(kitten.make_sound())

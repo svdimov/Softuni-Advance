@@ -1,4 +1,4 @@
-from project.section import Task,Section
+from project import Task,Section
 
 task = Task("Make bed", "27/05/2020")
 print(task.change_name("Go to University"))

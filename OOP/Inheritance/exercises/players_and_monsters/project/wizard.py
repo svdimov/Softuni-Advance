@@ -1,3 +1,3 @@
-from project.hero import Hero
+from project import Hero
 class Wizard(Hero):
     pass

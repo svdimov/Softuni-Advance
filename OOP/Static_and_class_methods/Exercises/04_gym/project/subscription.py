@@ -1,4 +1,4 @@
-from project.cls_mixin import ClsMixin
+from project import ClsMixin
 
 
 class Subscription(ClsMixin):
